@@ -24,7 +24,10 @@ MFCC features are extracted from audio signals and classified using a CNN + BiLS
 1. Open MATLAB
 2. Place dataset in the specified folder
 3. Run:
-   newvj2.m
+   main.m
 
 ## License
 This project is licensed under the MIT License.
+
+Note: Dataset is not included due to size and licensing restrictions.
+
